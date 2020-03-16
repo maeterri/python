@@ -136,6 +136,3 @@ void main()
 	printf("Temperature in Celsius : %.2f C \n", cTemp);
 	printf("Temperature in Fahrenheit : %.2f F \n", fTemp);
 }
-Save this as BMP280.c, I used the Cloud 9 IDE
-
-First of all compile the c program.
